@@ -1,0 +1,8 @@
+Postgres cluster billetdoux-pg created
+  Username:    postgres
+  Password:    U5qaT8DPshVNFSj
+  Hostname:    billetdoux-pg.internal
+  Flycast:     fdaa:9:6f0c:0:1::3
+  Proxy port:  5432
+  Postgres port:  5433
+  Connection string: postgres://postgres:U5qaT8DPshVNFSj@billetdoux-pg.flycast:5432
